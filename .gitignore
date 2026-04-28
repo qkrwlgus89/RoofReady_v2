@@ -1,3 +1,8 @@
+# Project data (chromadb, pdf cache)
+data/chroma_db/
+data/pdfs/
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
